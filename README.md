@@ -2,11 +2,6 @@
   <p>I'm breakinEnd</p>
 
 
-
-
-
-
-
 - 🔭 I’m currently working on d
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
