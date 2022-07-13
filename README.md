@@ -6,7 +6,9 @@ I'm Jonathas, developer from Brasil, Rio de Janeiro <img src="https://user-image
 I’m currently learning PHP and MySQL
 
 <blockquote
-<h3><p> Technologies and Tools </p></h3>
+<h3>
+<p> Technologies and Tools </p>
+</h3>
 </blockquote>
 
 <div style="display: inline_block"><br/>
