@@ -2,11 +2,15 @@
 
 I'm Jonathas, developer from Brasil, Rio de Janeiro <img src="https://img.icons8.com/color/48/000000/brazil.png" width="13" style="max-width: 100%; display: inline-block"> 
 
-<h3>Contact Me On</h3>
+I’m currently learning PHP and MySQL
+
+<blockquote>
+<h3>
+<p dir="auto">Technologies and Tools</p>
+</h3>
+</blockquote>
+
+<h3>Contact Me On</h3> 
  
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/breakingEnd)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathas-menezes-56369752/)
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-
