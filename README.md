@@ -14,7 +14,7 @@ I’m currently learning PHP and MySQL
  <img alignm="center" alt="css3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" width="55">
  <hr></hr>  
  
-<img src="https://camo.githubusercontent.com/749cfd5a4ded1f8144f6fffe62a6ce46628da4b92a15e71a8cb5fc45ef599e9c/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d627265616b696e67456e64267468656d653d6461726b26646174655f666f726d61743d6a2532304d25354225323059253544266d61782d77696474683a31307078" alt="GitHub Streak" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=breakingEnd&amp;theme=dark&amp;date_format=j%20M%5B%20Y%5D&amp;max-width:10px" style="width: 26em;">
+<img src="https://camo.githubusercontent.com/749cfd5a4ded1f8144f6fffe62a6ce46628da4b92a15e71a8cb5fc45ef599e9c/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d627265616b696e67456e64267468656d653d6461726b26646174655f666f726d61743d6a2532304d25354225323059253544266d61782d77696474683a31307078" alt="GitHub Streak" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=breakingEnd&amp;theme=dark&amp;date_format=j%20M%5B%20Y%5D&amp;max-width:10px" style="width: 30em;">
 
 <h3>Contact Me On</h3> 
  
