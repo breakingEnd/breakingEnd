@@ -5,9 +5,7 @@ I'm Jonathas, developer from Brasil, Rio de Janeiro <img src="https://www.freefa
 I’m currently learning PHP and MySQL
 
 <blockquote>
-<h3>
-<p dir="auto">Technologies and Tools</p>
-</h3>
+<h3> Technologies and Tools </h3>
 </blockquote>
 
 <div style="display: inline_block"><br/>
