@@ -8,6 +8,11 @@ I’m currently learning PHP and MySQL
 <p dir="auto">Technologies and Tools</p>
 </blockquote>
 
+<div style="display: inline_block"><br/>
+ <img alignm="center" alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+ <img alignm="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+ <img alignm="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+
 <h3>Contact Me On</h3> 
  
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/breakingEnd)
