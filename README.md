@@ -5,9 +5,7 @@ I'm Jonathas, developer from Brasil, Rio de Janeiro <img src="https://img.icons8
 I’m currently learning PHP and MySQL
 
 <blockquote>
-<h3>
-<p dir="auto">Technologies and Tools</p>
-</h3>
+<h3><p dir="auto">Technologies and Tools</p></h3>
 </blockquote>
 
 <h3>Contact Me On</h3> 
