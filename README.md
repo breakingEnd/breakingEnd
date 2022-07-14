@@ -5,7 +5,7 @@ I'm Jonathas, developer from Brasil, Rio de Janeiro
 
 I’m currently learning PHP and MySQL
 
-<h3>⚙Technologies and Tools</h3>
+<h3><align="bottom">⚙Technologies and Tools</h3>
 
 <div style="display: inline_block">
  <img alignm="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="90">
