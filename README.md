@@ -22,3 +22,5 @@ I’m currently learning PHP and MySQL
  
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/breakingEnd)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathas-menezes-56369752/)
+[![Dev.to](https://img.shields.io/badge/dev.to-black?style=for-the-badge&logo=dev.to&logoColor=%234DC730)](https://dev.to/breakingend)
+
